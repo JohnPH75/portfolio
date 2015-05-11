@@ -670,6 +670,14 @@ input.search-form:hover {
   opacity: 1;
 }
 
+.recent-work-wrap .recent-work-inner h3 a:hover {
+  color: #000;
+}
+
+.recent-work-wrap .overlay .preview:hover {
+  color: #000;
+}
+
 #services {
   background: #000 url(../images/services/bg_services.png);
   background-size: cover;

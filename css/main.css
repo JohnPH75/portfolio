@@ -246,6 +246,19 @@ ul.social-share li a:hover {
   color: #fff;
 }
 
+.search i:hover {
+  color: #c52d2f;
+}
+
+.search {
+  float: right;
+  margin-left: 33px;
+}
+
+#search {
+  background-color: transparent;
+}
+
 input.search-form{
   background: transparent;
   border: 0 none;

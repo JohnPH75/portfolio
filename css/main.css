@@ -28,7 +28,7 @@ h1{
   text-transform: capitalize;
   text-align: center;
   opacity: 0;
-  color: #fff;
+  color: #EAFF76;
   font-size: 36px;
   background: #000;
   padding: 16px 40px;
@@ -336,8 +336,9 @@ input.search-form:hover {
 .navbar-inverse .navbar-nav > .open > a,
 .navbar-inverse .navbar-nav > .open > a:hover,
 .navbar-inverse .navbar-nav > .open > a:focus {
-  background-color: #c52d2f;
-  color: #fff;
+  background-color: #EAFF76;
+  color: #000;
+  font-weight: bold;
 }
 
 .navbar-inverse .navbar-nav .dropdown-menu {
@@ -409,8 +410,9 @@ input.search-form:hover {
 
 #main-slider .carousel h2 {
   padding: 8px 20px;
-  background: #c52d2f;
-  color: #fff;
+  background: #EAFF76;
+  color: #000;
+  font-weight: bold;
   border-radius: 4px;
   margin-top: 25px;
   display: inline-block;
@@ -418,8 +420,8 @@ input.search-form:hover {
 
 #main-slider .carousel .btn-slide {
   padding: 8px 20px;
-  background: #c52d2f;
-  color: #fff;
+  background: #EAFF76;
+  color: #000;
   border-radius: 4px;
   margin-top: 25px;
   display: inline-block;
@@ -466,8 +468,9 @@ input.search-form:hover {
 #main-slider .next {
   position: absolute;
   top: 50%;
-  background-color: #c52d2f;
-  color: #fff;
+  background-color: #EAFF76;
+  color: #000;
+  font-weight: bold;
   display: inline-block;
   margin-top: -25px;
   height: 40px;
@@ -481,7 +484,7 @@ input.search-form:hover {
 
 #main-slider .prev:hover,
 #main-slider .next:hover {
-  background-color: #000;
+  background-color: #c52d2f;
 }
 
 #main-slider .prev {
@@ -515,9 +518,9 @@ input.search-form:hover {
 #main-slider .carousel-indicators .active{
   width: 20px;
   height: 20px;
-  background-color: #c52d2f;
+  background-color: #EAFF76;
    margin: 0 15px 0 0;
-   border: 1px solid #c52d2f;
+   border: 1px solid #000;
    position: relative;
 }
 
@@ -527,7 +530,7 @@ input.search-form:hover {
   width: 24px;
   height: 24px;
   border-radius: 100%;
-  background: #c52d2f;
+  background: #EAFF76;
   border: 1px solid #c52d2f;
   left: -3px;
   top: -3px;
@@ -596,7 +599,7 @@ input.search-form:hover {
   line-height: 110px;
   text-align:center;
   background: #ffffff;
-  color: #c52d2f;
+  color: #EAFF76;
   border: 3px solid #ffffff;
   box-shadow: inset 0 0 0 5px #f2f2f2;
   -webkit-box-shadow: inset 0 0 0 5px #f2f2f2;
@@ -609,8 +612,8 @@ input.search-form:hover {
 }
 
 .feature-wrap i:hover {
-  background: #c52d2f;
-  color: #fff;
+  background: #EAFF76;
+  color: #c52d2f;
   box-shadow: inset 0 0 0 5px #c52d2f;
   -webkit-box-shadow: inset 0 0 0 5px #c52d2f;
   border: 3px solid #c52d2f;
@@ -989,7 +992,7 @@ a.accordion-toggle  i{
 }
 
 #partner {
-  background: url(../images/partners/partner_bg.png) 50% 50% no-repeat;
+  background: url(../images/partners/partner_bg.gif) 50% 50% no-repeat;
   background-size: cover;
 }
 
@@ -1001,6 +1004,7 @@ a.accordion-toggle  i{
 #partner h2, 
 #partner h3 {
   color: #fff;
+  font-weight: bolder;
 }
 
 .partners ul {
@@ -1240,7 +1244,7 @@ p:hover {
 }
 
 img.img-responsive {
-  margin-top: 103px;
+  margin-top: -17px;
   }
 
 
